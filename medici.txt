@@ -1,0 +1,7 @@
+ID01 mario_rossi 2012 20 28
+ID02 luigi_verdi 2014 13 26
+ID03 gina_gialli 2012 17 32
+ID04 ciro_ciano  2014 15 40
+ID05 valeria_viola 2013 14 52
+ID06 roberto_burioni 2010 34 55
+ID07 stefano_liuzzi 2010 27 56
